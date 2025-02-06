@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Oodo Abel by name but people like to call me the Ultimate
+- 👋 Hi, I’m Oodo Abel by name but people like to call me sync
 - 👀 I’m interested in web app dev and innovative technologies
-- 🌱 I’m currently learning web3 dev and blockchain technologies
+- 🌱 I’m currently learning web3 dev and cyber security
 - 💞 I’m looking to collaborate on amazing projects
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, BackEnd Engineer, Full-Stack Engineer (Intern or Junior level).
+- 💼 Job interests: Software Engineer, Cyber Security, FrontEnd Engineer, Full-Stack Engineer (Intern or Junior level).
 - 📫 How to reach me get2abeloodo@gmail.com
 
 
