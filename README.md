@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Oodo Abel by name but people like to call me sync
 - 👀 I’m interested in web app dev and innovative technologies
-- 🌱 I’m currently learning web3 dev and cyber security
+- 🌱 I’m currently learning fullstack dev and cyber security
 - 💞 I’m looking to collaborate on amazing projects
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Cyber Security, FrontEnd Engineer, Full-Stack Engineer (Intern or Junior level).
